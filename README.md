@@ -1,4 +1,4 @@
-# Research Analysis or Document Summary
+# Research Analysis or Document Summary ![HitCount](https://hits.dwyl.com/fromsantanu/RA-Main.svg)
 ## About
 ### What is Research Analysis:
 After we do a research analysis, you get an in-depth, understandable analysis of cutting-edge health research, complete with easy-to-follow explanations and practical takeaways.
