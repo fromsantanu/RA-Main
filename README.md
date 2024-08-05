@@ -21,7 +21,6 @@ After we do a research analysis, you get an in-depth, understandable analysis of
 - Our goal is to make complex scientific information accessible to everyone. We break down the research into simpler terms without losing the essence of the original study. At the end we produce a summary document that contain these information.
 
 ## List of topics
-- [Tubeculosis in India (TBI)](https://github.com/fromsantanu/TBI-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000)
-: A complete case study based on Government Report on Tuberculosis in India (2023). It is an informative content for anyone interested in epidemiology of Tuberculosis in India. 
+- [Tubeculosis in India (TBI)](https://github.com/fromsantanu/TBI-Main) : A complete case study based on Government Report on Tuberculosis in India (2023). It is an informative content for anyone interested in epidemiology of Tuberculosis in India. 
 - [PM2.5 and Mortality in Indian Cities (PM25)](https://github.com/fromsantanu/PM25-Main) : Our analysis based on a report published Lancet Planetary Health in July 2024 on study of mortality rates in 10 Indian cities with proportionate to rising level of PM2.5 particles in atmosphere.  
 
